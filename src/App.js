@@ -15,8 +15,6 @@ import {
 
 const INITIAL_STATE = {
   contacts: [],
-  name: "",
-  number: "",
   filter: "",
 };
 
